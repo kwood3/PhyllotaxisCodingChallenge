@@ -21,14 +21,14 @@ void setup() {
 
 void draw() {
   timer++;          // Adding 1 to timer
-  if (timer > 2) {  // Reseting timer 
+  if (timer > 1) {  // Reseting timer 
     timer = 0;
   }
 
   if (timer == 0) {
     p1.Show();      // When timer = 0, Phyllotaxis #1 Updates/Displays
   }
-  if (timer == 2) {
+  if (timer == 1) {
     p2.Show();      // When timer = 2, Phyllotaxis #2 Updates/Displays
   }
 }
