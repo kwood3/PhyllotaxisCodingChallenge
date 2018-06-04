@@ -29,6 +29,6 @@ void draw() {
     p1.Show();      // When timer = 0, Phyllotaxis #1 Updates/Displays
   }
   if (timer == 1) {
-    p2.Show();      // When timer = 2, Phyllotaxis #2 Updates/Displays
+    p2.Show();      // When timer = 1, Phyllotaxis #2 Updates/Displays
   }
 }
