@@ -6,3 +6,4 @@ This is where we store our code, images, and wiki for our coding challenge summa
 ## Gifs of Phyllotaxis:
 ![](https://github.com/kwood3/PhyllotaxisCodingChallenge/blob/master/PhyllotaxisGifs/ShiffmanPhyllotaxis.gif)
 ![](https://github.com/kwood3/PhyllotaxisCodingChallenge/blob/master/PhyllotaxisGifs/KobyPhyllotaxis.gif)
+![](https://github.com/kwood3/PhyllotaxisCodingChallenge/blob/master/PhyllotaxisGifs/MikePhyllotaxis.gif)
