@@ -17,7 +17,7 @@ void draw() {
   for (int i = 0; i < n; i++) {
     float a = i * radians(137.5); //spread of arms, #of arms, and speed of rotation of arms
     float r = c * radians(i); //Outwards expansion of arms
-    float x = r * sin(a); /twist of arms
+    float x = r * sin(a); //twist of arms
     float y = r * tan(a); //Internal bands
     float hu = i+start; //sin(start + i * 0.5);
     hu = i/3.0 % 360; //Color change rate
